@@ -2054,15 +2054,6 @@
               "actions": [
                 {
                   "type": {
-                    "value": "AjoutObjConcern"
-                  },
-                  "parameters": [
-                    "",
-                    "RoadAndLinkGroup"
-                  ]
-                },
-                {
-                  "type": {
                     "value": "LinkTools::LinkIsometricRectangularNeighbors"
                   },
                   "parameters": [
